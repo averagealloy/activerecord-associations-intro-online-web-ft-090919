@@ -1,3 +1,3 @@
 class Artist < ActiveRecord::Base
-  ha
+  has_many
 end
